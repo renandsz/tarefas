@@ -1,0 +1,14 @@
+C:\Users\Renan\Desktop\algs\bin\Debug\net7.0\algs.exe
+C:\Users\Renan\Desktop\algs\bin\Debug\net7.0\algs.deps.json
+C:\Users\Renan\Desktop\algs\bin\Debug\net7.0\algs.runtimeconfig.json
+C:\Users\Renan\Desktop\algs\bin\Debug\net7.0\algs.dll
+C:\Users\Renan\Desktop\algs\bin\Debug\net7.0\algs.pdb
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\algs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\algs.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\algs.AssemblyInfo.cs
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\algs.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\algs.dll
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\refint\algs.dll
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\algs.pdb
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\algs.genruntimeconfig.cache
+C:\Users\Renan\Desktop\algs\obj\Debug\net7.0\ref\algs.dll
